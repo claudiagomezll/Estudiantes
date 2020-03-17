@@ -14,6 +14,7 @@ public class Estudiante
     Integer semestre;
     String estado;
     Carrera carrera;
+    Asignatura asignatura;
 
     public Estudiante()
     {
